@@ -1,0 +1,17 @@
+.namePost {
+  color: red;
+}
+.cardPost {
+  width: 450px;
+  border: 1px solid black;
+  display: flex;
+  padding: 20px;
+  margin: 30px;
+  justify-content: space-between;
+}
+.listCard {
+  display: flex;
+}
+.deco{
+  text-decoration: none;
+}
